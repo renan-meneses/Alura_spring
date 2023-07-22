@@ -45,7 +45,9 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos cursos de Spring Boot.
 
-Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) 
+Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira)
 
-Aluno [Renan Meneses](https://github.com/renan-meneses)
+Aluno: [Renan Meneses](https://cursos.alura.com.br/user/renanmenesesdev) 
+
+
 ---
