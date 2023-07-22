@@ -47,5 +47,5 @@ Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos curso
 
 Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) 
 
-Aluno [Renan Meneses](https://github.com/renan-meneses)
+Aluno: [Renan Meneses](https://github.com/renan-meneses)
 ---
